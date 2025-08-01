@@ -59,3 +59,9 @@ tulu_tr.txt -> Tulu dataset
 
 ✅ Demonstrate the potential of machine learning in regional language translation.
 
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+Copyright © 2025 [Keerthi](https://github.com/Keerthi-2025)
+
