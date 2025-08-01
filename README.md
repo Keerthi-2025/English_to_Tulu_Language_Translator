@@ -11,11 +11,6 @@ Project URL: https://eng2tulu.streamlit.app/
 
 Tulu is a regional language spoken primarily in parts of Karnataka and Kerala, India. Unfortunately, it remains underrepresented in most language technology platforms. This project aims to bridge that gap by developing a translator that supports English to Tulu translation, promoting both communication and the preservation of the Tulu language.
 
-### 📁 Dataset
-
-The dataset used in this project contains aligned English-Tulu phrase pairs.
-
-
 
 🔍 Project Overview
 
