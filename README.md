@@ -1,8 +1,21 @@
+### 📸 **Screenshots**
+
+Here are some snapshots of the app in action:
+<img width="1151" height="557" alt="image" src="https://github.com/user-attachments/assets/7c51db35-ad05-4d26-bfaf-0e2af550898f" />
+<img width="1070" height="532" alt="image" src="https://github.com/user-attachments/assets/87394971-24f1-423d-b1ba-2845e5b026f4" />
+
+
 🗣️ English to Tulu Language Translator
 
 Project URL: https://eng2tulu.streamlit.app/
 
 Tulu is a regional language spoken primarily in parts of Karnataka and Kerala, India. Unfortunately, it remains underrepresented in most language technology platforms. This project aims to bridge that gap by developing a translator that supports English to Tulu translation, promoting both communication and the preservation of the Tulu language.
+
+### 📁 Dataset
+
+The dataset used in this project contains aligned English-Tulu phrase pairs.
+
+
 
 🔍 Project Overview
 
